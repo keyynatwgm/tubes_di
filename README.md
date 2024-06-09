@@ -1,4 +1,4 @@
-# tubes_di
+# tubes_Desain Interaksi
 
 ## Preview
 ![image](https://github.com/keyynatwgm/tubes_di/assets/127914968/dc7133a4-3c6c-4028-9393-bcb9762a775a)
